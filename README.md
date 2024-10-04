@@ -2,7 +2,7 @@
 
 ## Olá! Eu sou o Antônio Rocha da Silva 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paozinho_6254/)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlesna2guerra&show_icons=true&theme=radical)
