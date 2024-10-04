@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://wallpapercave.com/wp/wp10431873.jpg" />
+<img src="./wp10431873-black-clean-4k-wallpapers.jpg" alt="Imagem Black Clean 4K" width="600" height="400" style="border: 2px solid black; border-radius: 10px;">
 &nbsp;&nbsp;&nbsp;
 
 ## Olá! Eu sou o Antônio Rocha da Silva 🖐️
