@@ -1,5 +1,4 @@
-<img src="./wp10431873-black-clean-4k-wallpapers.jpg" alt="Imagem Black Clean 4K" width="600" height="400" style="border: 2px solid black; border-radius: 10px;">
-&nbsp;&nbsp;&nbsp;
+![Imagem Black Clean 4K](./wp10431873-black-clean-4k-wallpapers.jpg)
 
 ## Olá! Eu sou o Antônio Rocha da Silva 🖐️
 
