@@ -14,5 +14,5 @@
 
 </div><br/>
 
-💻 Apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação, não existem proejetos excelentes sem uma equipe excelente.
+💻 Apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação, não existem projetos excelentes sem uma equipe excelente.
 
