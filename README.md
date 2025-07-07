@@ -14,6 +14,12 @@
 
 </div><br/>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paozinho6254/paozinho6254/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paozinho6254/paozinho6254/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paozinho6254/paozinho6254/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![paozinho6254 github activity graph](https://raw.githubusercontent.com/paozinho6254/paozinho6254/output/github-contribution-grid-snake-dark.svg)
 
 💻 Apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação, não existem projetos excelentes sem uma equipe excelente.
