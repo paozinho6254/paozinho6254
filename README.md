@@ -15,7 +15,7 @@
 </div><br/>
 </p>
 
-<div align = "center">
+<div align = "start">
   <a href="https://github.com/paozinho6254">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paozinho6254&layout=compact&langs_count=7&theme=dracula"/>
 </div>
