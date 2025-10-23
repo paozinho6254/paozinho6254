@@ -17,7 +17,7 @@
 
 <div align = "start">
   <a href="https://github.com/paozinho6254">
-  <img loading="lazy" height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paozinho6254&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paozinho6254&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
     
