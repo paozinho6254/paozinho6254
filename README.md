@@ -7,15 +7,9 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block">
-  <img align="center" alt="python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<br/>
 
-
-</div><br/>
-</p>
-
-<div align = "start">
+<div align = "center">
   <a href="https://github.com/paozinho6254">
   <img loading="lazy" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paozinho6254&layout=compact&langs_count=7&theme=dracula"/>
 </div>
