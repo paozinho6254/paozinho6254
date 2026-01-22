@@ -1,4 +1,4 @@
-![Imagem Black Clean 4K](./<Minhalogo>.webp)
+![Imagem Black Clean 4K](./<Minhalogo>.png)
 
 ## Olá! Eu sou o Antônio Rocha da Silva 🖐️
 
