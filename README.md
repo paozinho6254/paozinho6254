@@ -1,4 +1,4 @@
-![Imagem Black Clean 4K](./wp10431873-black-clean-4k-wallpapers.jpg)
+![Imagem Black Clean 4K](./<Minhalogo>.webp)
 
 ## Olá! Eu sou o Antônio Rocha da Silva 🖐️
 
